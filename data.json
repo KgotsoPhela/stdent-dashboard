@@ -1,0 +1,122 @@
+{
+    "weeks": [
+        {
+            "week_name": "week1",
+            "week_start_date": "2024-06-03",
+            "week_end_date": "2024-06-08",
+            "amount_per_week": 600,
+            "amount_per_session": 120,
+            "normal_number_of_sessions_per_week": 5,
+            "sessions": [
+                {
+                    "session_date": "2024-06-03",
+                    "session_number": 1,
+                    "payment_status": "Paid",
+                    "session_paid_amount": 120,
+                    "session_outstanding_amount": 0,
+                    "notes": ""
+                },
+                {
+                    "session_date": "2024-06-04",
+                    "session_number": 2,
+                    "payment_status": "Paid",
+                    "session_paid_amount": 120,
+                    "session_outstanding_amount": 0,
+                    "notes": ""
+                },
+                {
+                    "session_date": "2024-06-05",
+                    "session_number": 3,
+                    "payment_status": "Paid",
+                    "session_paid_amount": 120,
+                    "session_outstanding_amount": 0,
+                    "notes": ""
+                },
+                {
+                    "session_date": "2024-06-06",
+                    "session_number": 4,
+                    "payment_status": "Paid",
+                    "session_paid_amount": 120,
+                    "session_outstanding_amount": 0,
+                    "notes": ""
+                },
+                {
+                    "session_date": "2024-06-07",
+                    "session_number": 5,
+                    "payment_status": "Paid",
+                    "session_paid_amount": 120,
+                    "session_outstanding_amount": 0,
+                    "notes": ""
+                }
+            ],
+            "total_paid_amount": 600,
+            "total_outstanding_amount": 0,
+            "status": "Closed"
+        },
+        {
+            "week_name": "week2",
+            "week_start_date": "2024-06-10",
+            "week_end_date": "2024-06-15",
+            "amount_per_week": 600,
+            "amount_per_session": 120,
+            "normal_number_of_sessions_per_week": 5,
+            "sessions": [
+                {
+                    "session_date": "2024-06-10",
+                    "session_number": 4,
+                    "payment_status": "Paid",
+                    "session_paid_amount": 120,
+                    "session_outstanding_amount": 0,
+                    "notes": ""
+                },
+                {
+                    "session_date": "2024-06-11",
+                    "session_number": 7,
+                    "payment_status": "Paid",
+                    "session_paid_amount": 120,
+                    "session_outstanding_amount": 0,
+                    "notes": ""
+                },
+                {
+                    "session_date": "2024-06-12",
+                    "session_number": 8,
+                    "payment_status": "Paid",
+                    "session_paid_amount": 120,
+                    "session_outstanding_amount": 0,
+                    "notes": ""
+                },
+                {
+                    "session_date": "2024-06-13",
+                    "session_number": 9,
+                    "payment_status": "Not Paid",
+                    "session_paid_amount": 0,
+                    "session_outstanding_amount": 120,
+                    "notes": ""
+                },
+                {
+                    "session_date": "2024-06-14",
+                    "session_number": 10,
+                    "payment_status": "Paid",
+                    "session_paid_amount": 120,
+                    "session_outstanding_amount": 0,
+                    "notes": ""
+                }
+            ],
+            "total_paid_amount": 480,
+            "total_outstanding_amount": 120,
+            "status": "Not Closed"
+        },
+        {
+            "week_name": "week3",
+            "week_start_date": "2024-06-17",
+            "week_end_date": "2024-06-22",
+            "amount_per_week": 600,
+            "amount_per_session": 120,
+            "normal_number_of_sessions_per_week": 5,
+            "sessions": [],
+            "total_paid_amount": 0,
+            "total_outstanding_amount": 600,
+            "status": "Not Closed"
+        }
+    ]
+}
